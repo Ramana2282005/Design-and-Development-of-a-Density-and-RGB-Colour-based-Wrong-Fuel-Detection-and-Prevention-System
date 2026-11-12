@@ -1,0 +1,2 @@
+# Design-and-Development-of-a-Density-and-RGB-Colour-based-Wrong-Fuel-Detection-and-Prevention-System
+— Wrong fuel (also known as Misfuelling) is a problem that can arise when the wrong type of fuel is supplied to the fuel tank of the vehicle. It can cause a malfunction of the engine, have maintenance costs, and even lead to damage to the fuel system components. The existing fuel filler systems mainly depend on the manual operation.
